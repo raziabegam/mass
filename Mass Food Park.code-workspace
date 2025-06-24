@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Toddler Care"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Mass Food Park"
+	}
+}
